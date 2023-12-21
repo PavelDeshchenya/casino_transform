@@ -326,7 +326,7 @@ span {
 
   .card__inf {
     font-family: "FuturaPT", sans-serif;
-    font-size: calc(2px + 20 * (100vw / 1920));
+    font-size: calc(5px + 17 * (100vw / 1920));
     line-height: 130%;
     text-align: center;
     padding-left: 17px;
@@ -438,7 +438,7 @@ span {
 
   .card__inf {
     font-family: "FuturaPT", sans-serif;
-    font-size: calc(10px + 12 * (100vw / 1920));
+    font-size: calc(15px + 7 * (100vw / 1920));
     line-height: 130%;
     text-align: center;
     padding-left: 17px;
@@ -538,7 +538,7 @@ span {
 
   .card__inf {
     font-family: "FuturaPT", sans-serif;
-    font-size: calc(10px + 12 * (100vw / 1920));
+    font-size: calc(15px + 7 * (100vw / 1920));
     line-height: 130%;
     text-align: center;
     padding-left: 17px;
@@ -637,7 +637,7 @@ span {
 
   .card__inf {
     font-family: "FuturaPT", sans-serif;
-    font-size: calc(10px + 12 * (100vw / 1920));
+    font-size: calc(15px + 7 * (100vw / 1920));
     line-height: 130%;
     text-align: center;
     padding-left: 17px;
@@ -736,7 +736,7 @@ span {
 
   .card__inf {
     font-family: "FuturaPT", sans-serif;
-    font-size: calc(10px + 12 * (100vw / 1920));
+    font-size: calc(15px + 7 * (100vw / 1920));
     line-height: 130%;
     text-align: center;
     padding-left: 17px;
